@@ -1,5 +1,4 @@
-algorithms-lisp
+algorithms
 ===============
 
-Various algorithms written in common lisp
-
+Various algorithms written (mostly) in common lisp
